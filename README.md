@@ -11,10 +11,6 @@ I am a full-stack web developer along with Competitive Programmer and Open Sourc
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on on small random projects in Python and C++
 
-<a href="https://www.twitter.com/chandlerbong0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/chandlerbong0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
-
 ### Skills
 
 
